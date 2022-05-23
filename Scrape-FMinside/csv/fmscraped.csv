@@ -1,0 +1,108 @@
+id,firstName,lastName,version,valeu,wages,contractexpires,club,Nationality,CA,PA
+29161106,Ronaldo,Vieira,22,€ 6.064.000,€ 26.690,2023-06-30,Sampdoria,England,65,74
+29161106,Ronaldo,Vieira,21,€ 3.200.000,€ 29.000,2023-06-30,Hellas Verona,England,65,73
+43317933,Hamed Junior,Traoré,22,€ 40.739.995,€ 17.790,2024-06-30,Sassuolo,Ivory Coast,68,81
+43317933,Hamed Junior,Traoré,21,€ 5.000.000,€ 19.500,2022-06-30,Sassuolo,Ivory Coast,66,80
+35017428,Marc-André ter,Stegen,22,€ 500.177.000,€ 165.060,2025-06-30,FC Barcelona,Germany,87,92
+35017428,Marc-André ter,Stegen,21,€ 500.000.000,€ 165.000,2025-06-30,FC Barcelona,Germany,87,92
+18004418,Eden,Hazard,22,€ 154.708.060,€ 445.360,2024-06-30,Real Madrid,Belgium,83,93
+18004418,Eden,Hazard,21,€ 183.000.000,€ 450.000,2024-06-30,Real Madrid,Belgium,88,93
+721326,Kamil,Grosicki,22,€ sale,€ 8.410,2023-06-30,Pogoń Szczecin,Poland,59,72
+721326,Kamil,Grosicki,21,€ 4.700.000,€ 27.500,2021-06-30,West Brom,Poland,64,72
+91003497,Lasse,Sobiech,22,€ 471.221,€ 12.080,2022-06-30,Darmstadt 98,Germany,61,65
+91003497,Lasse,Sobiech,21,€ 950.000,€ 13.500,2022-06-30,Zürich,Germany,61,65
+54006889,Artur,Sobiech,22,€ sale,€ 2.630,2023-06-30,Lech Poznań,Poland,59,64
+54006889,Artur,Sobiech,21,€ 1.100.000,€ 9.500,2021-06-30,Fatih Karagümrük,Poland,58,64
+14110660,Lautaro,Martínez,22,€ 111.039.300,€ 88.970,2023-06-30,Inter,Argentina,84,88
+14110660,Lautaro,Martínez,21,€ 111.000.000,€ 89.000,2023-06-30,Inter,Argentina,80,88
+96145145,Kacper,Kozlowski,22,€ 1.828.591,€ 350,2023-06-30,Pogoń Szczecin,Poland,55,70-90
+96145145,Kacper,Kozlowski,21,€ 7.250,€ 60,2023-06-30,Pogoń Szczecin,Poland,40,60-80
+17011618,Mikhail,Kozlov,22,€ 14.546,€ 630,2021-12-31,Dinamo Minsk,Belarus,48,50
+17011618,Mikhail,Kozlov,21,€ 27.500,€ 625,2021-12-31,Dinamo Minsk,Belarus,50,50
+2000046143,Gabriël,Misehouy,22,€ 19.320.000,€ 100,2024-06-30,Ajax,Netherlands,47,70-90
+37088406,Julian,Rijkhoff,22,€ 5.304.000,€ 60,2023-06-30,Borussia Dortmund,Netherlands,45,60-80
+52014865,Stuart,Dallas,22,€ 33.023.935,€ 64.350,2024-06-30,Leeds Utd,Northern Ireland,74,75
+52014865,Stuart,Dallas,21,€ 28.000.000,€ 16.500,2023-06-30,Leeds Utd,Northern Ireland,71,71
+18097159,Alexis,Saelemaekers,22,€ 27.958.498,€ 29.240,2026-06-30,Milan,Belgium,74,82
+18097159,Alexis,Saelemaekers,21,€ 7.000.000,€ 29.000,2024-06-30,Milan,Belgium,69,80
+38037430,Szilveszter,Hangya,22,€ 344.248,€ 1.940,2023-06-30,Videoton FC,Hungary,56,66
+38037430,Szilveszter,Hangya,21,€ 325.000,€ 1.900,2021-06-30,Videoton FC,Hungary,55,66
+12029963,Yassine,Bounou,22,€ 57.064.450,€ 58.340,2024-06-30,Sevilla,Morocco,75,76
+12029963,Yassine,Bounou,21,€ 31.500.000,€ 36.000,2024-06-30,Sevilla,Morocco,72,74
+92017506,Odysseas,Vlachodimos,22,€ 60.021.240,€ 28.970,2024-06-30,SL Benfica,Greece,72,73
+92017506,Odysseas,Vlachodimos,21,€ 60.000.000,€ 24.000,2024-06-30,SL Benfica,Greece,72,76
+14166615,César,Ibáñez,22,€ 16.834.030,€ 1.060,2023-06-30,Huracán,Argentina,59,61
+14166615,César,Ibáñez,21,€ 17.000.000,€ 1.600,2023-06-30,Huracán,Argentina,54,62
+29222614,Soufiane,Rahimi,22,€ 3.272.296,€ 22.900,2025-06-30,Al-Ain,Morocco,62,63
+29222614,Soufiane,Rahimi,21,€ 26.000,€ 2.400,2022-06-30,Raja Casablanca,Morocco,51,50-70
+14135256,Norberto,Briasco,22,€ 5.761.481,€ 3.240,2025-12-31,Boca Juniors,Armenia,63,63
+14135256,Norberto,Briasco,21,€ 775.000,€ 2.400,2021-06-30,Huracán,Armenia,60,63
+42061427,Gabi,Kanichowsky,22,€ 1.643.999,€ 6.770,2024-05-31,Maccabi Tel Aviv,Israel,62,62
+42061427,Gabi,Kanichowsky,21,€ 220.000,€ 3.100,2021-05-31,Maccabi Netanya,Israel,58,63
+48036350,Aïssa,Laidouni,22,€ 1.000.346,€ 3.490,2023-06-30,Ferencvárosi TC,Tunisia,61,63
+48036350,Aïssa,Laidouni,21,€ 475.000,€ 1.900,2023-06-30,Ferencvárosi TC,France,51,55
+63023419,Miroslav,Kácer,22,€ 2.410.188,€ 2.750,2023-06-30,Viktoria Plzeň,Slovakia,62,65
+63023419,Miroslav,Kácer,21,€ 450.000,€ 2.600,2023-06-30,Viktoria Plzeň,Slovakia,60,65
+79024208,Luis,Amarilla,22,€ 2.609.478,€ 13.690,2022-06-30,Liga de Quito,Paraguay,64,65
+79024208,Luis,Amarilla,21,€ 2.000.000,€ 4.400,2022-06-30,Minnesota,Paraguay,63,65
+59006259,Grigor,Meliksetyan,22,€ 22.258,€ 230,2022-06-30,Ararat Yerevan,Armenia,47,47
+58085193,Arshak,Koryan,22,€ 198.404,€ 4.080,2024-05-31,Orenburg,Armenia,52,55
+58085193,Arshak,Koryan,21,€ 68.000,€ 3.800,2021-06-30,Khimki,Armenia,51,58
+53088903,Martin,Ellingsen,22,€ 773.813,€ 1.430,2022-12-31,Molde,Norway,65,66
+53088903,Martin,Ellingsen,21,€ 1.300.000,€ 1.400,2022-12-31,Molde,Norway,61,65
+19226437,,Otávio,22,€ 5.021.751,€ 34.510,2022-06-30,Bordeaux,Brazil,66,68
+19226437,,Otávio,21,€ 4.500.000,€ 34.500,2022-06-30,Bordeaux,Brazil,66,68
+43093936,Danilo,Cataldi,22,€ 5.862.864,€ 49.830,2024-06-30,Lazio,Italy,67,70
+43093936,Danilo,Cataldi,21,€ 5.750.000,€ 50.000,2024-06-30,Lazio,Italy,68,73
+2000142821,Felipe,Sánchez,22,€ 1.197.362,€ 30,2026-06-30,Gimnasia y Esgrima..,Argentina,43,40-60
+2000100625,Mateja,Bubanj,22,€ 894.799,€ 60,2024-06-30,Red Star,Serbia,44,50-70
+37084998,Iggy,Houben,22,€ 6.226.000,€ 110,2025-06-30,PSV Eindhoven,Netherlands,47,60-80
+2000077702,Luis,Valdez,22,€ 65.965,€ 60,2022-12-31,Barcelona S.C.,Ecuador,41,40-60
+67085965,,Suso,22,€ 54.148.430,€ 43.740,2025-06-30,Sevilla,Spain,73,78
+67085965,,Suso,21,€ 61.000.000,€ 53.000,2025-06-30,Sevilla,Spain,75,80
+54004036,Lukasz,Burliga,22,€ sale,€ 1.320,2023-06-30,Wieczysta Kraków,Poland,51,58
+54004036,Lukasz,Burliga,21,€ 36.000,€ 2.100,2021-06-30,Wisła Kraków,Poland,53,58
+96075388,Mateusz,Lis,22,€ 1.590.298,€ 2.000,2025-06-30,Altay SK,Poland,54,62
+96075388,Mateusz,Lis,21,€ 23.000,€ 500,2021-06-30,Wisła Kraków,Poland,52,62
+96027391,Filip,Starzynski,22,€ 334.652,€ 5.040,2023-06-30,Zagłębie Lubin,Poland,59,60
+96027391,Filip,Starzynski,21,€ 235.000,€ 5.250,2023-06-30,Zagłębie Lubin,Poland,58,60
+54000966,Artur,Jedrzejczyk,22,€ 3.001.060,€ 9.330,2023-06-30,Legia Warszawa,Poland,60,64
+54000966,Artur,Jedrzejczyk,21,€ 3.000.000,€ 9.500,2023-06-30,Legia Warszawa,Poland,61,64
+713854,Artur,Boruc,22,€ 27.755,€ 4.390,2022-06-30,Legia Warszawa,Poland,60,70
+713854,Artur,Boruc,21,€ 26.000,€ 4.500,2021-06-30,Legia Warszawa,Poland,61,70
+96061971,Taras,Romanczuk,22,€ 371.835,€ 3.030,2023-06-30,Jagiellonia Białys..,Poland,58,63
+96061971,Taras,Romanczuk,21,€ 235.000,€ 3.100,2023-06-30,Jagiellonia Białys..,Poland,58,63
+96011096,Rafal,Wolski,22,€ 156.561,€ 2.380,2023-06-30,Wisła Płock,Poland,58,65
+96011096,Rafal,Wolski,21,€ 74.000,€ 2.600,2021-06-30,Wisła Płock,Poland,55,65
+96010344,Kamil,Drygas,22,€ 173.637,€ 2.520,2022-06-30,Pogoń Szczecin,Poland,57,59
+96010344,Kamil,Drygas,21,€ 105.000,€ 2.600,2021-06-30,Pogoń Szczecin,Poland,57,59
+96003382,Michal,Kucharczyk,22,€ 188.378,€ 2.850,2023-06-30,Pogoń Szczecin,Poland,56,60
+96003382,Michal,Kucharczyk,21,€ 145.000,€ 2.900,2023-06-30,Pogoń Szczecin,Poland,56,60
+96111188,Bartosz,Slisz,22,€ 1.666.389,€ 1.210,2024-12-31,Legia Warszawa,Poland,56,70
+96111188,Bartosz,Slisz,21,€ 94.000,€ 1.200,2024-12-31,Legia Warszawa,Poland,55,70
+96002753,Maciej,Gajos,22,€ 115.679,€ 2.630,2022-06-30,Lechia Gdańsk,Poland,55,59
+96002753,Maciej,Gajos,21,€ 130.000,€ 2.700,2022-06-30,Lechia Gdańsk,Poland,54,59
+19359019,,Conrado,22,€ 211.579,€ 2.270,2024-06-30,Lechia Gdańsk,Brazil,56,60
+19359019,,Conrado,21,€ 92.000,€ 2.200,2022-06-30,Lechia Gdańsk,Brazil,55,60
+8404400,Pavels,Šteinbors,22,€ 32.000,€ 2.270,2022-06-30,Jagiellonia Białys..,Latvia,56,57
+8404400,Pavels,Šteinbors,21,€ 48.500,€ 2.300,2022-06-30,Jagiellonia Białys..,Latvia,56,57
+67039209,Flávio,Paixão,22,€ 39.050,€ 6.900,2022-06-30,Lechia Gdańsk,Portugal,59,59
+67039209,Flávio,Paixão,21,€ 18.500,€ 7.000,2021-06-30,Lechia Gdańsk,Portugal,59,59
+55022487,Luís,Rocha,22,€ 28.180,€ 2.270,2022-06-30,Cracovia,Portugal,50,55
+55022487,Luís,Rocha,21,€ 33.500,€ 3.600,2021-06-30,Legia Warszawa,Portugal,51,55
+55038682,Tomás,Podstawski,22,€ 196.151,€ 1.430,2021-12-31,Stabæk,Portugal,56,63
+55038682,Tomás,Podstawski,21,€ 175.000,€ 3.100,2021-06-30,Pogoń Szczecin,Portugal,57,63
+55070306,Luís,Mata,22,€ 414.830,€ 2.500,2023-06-30,Pogoń Szczecin,Portugal,53,58
+55070306,Luís,Mata,21,€ 41.000,€ 1.300,2023-06-30,Pogoń Szczecin,Portugal,48,58
+84109364,,Luquinhas,22,€ 1.017.063,€ 4.000,2024-06-30,Legia Warszawa,Brazil,61,66
+84109364,,Luquinhas,21,€ 250.000,€ 3.000,2022-06-30,Legia Warszawa,Brazil,60,66
+19148891,,Rivaldinho,22,€ 348.869,€ 3.000,2023-06-30,Cracovia,Brazil,54,62
+19148891,,Rivaldinho,21,€ 145.000,€ 3.000,2023-06-30,Cracovia,Brazil,55,62
+67227812,,Chuca,22,€ 100.638,€ 2.700,2023-06-30,Miedź Legnica,Spain,52,58
+67227812,,Chuca,21,€ 53.000,€ 1.800,2022-06-30,Wisła Kraków,Spain,52,58
+67102055,Jesús,Imaz,22,€ 268.688,€ 2.520,2022-06-30,Jagiellonia Białys..,Spain,60,63
+67102055,Jesús,Imaz,21,€ 450.000,€ 2.600,2022-06-30,Jagiellonia Białys..,Spain,57,63
+67209472,Jesús,Jiménez,22,€ 341.592,€ 1.770,2022-06-30,Górnik Zabrze,Spain,60,63
+67209472,Jesús,Jiménez,21,€ 185.000,€ 1.800,2021-06-30,Górnik Zabrze,Spain,60,63
+67179962,Fernán,Ferreiroa,22,€ 129.195,€ 2.000,2022-06-30,FK Qabala,Spain,48,53
+67179962,Fernán,Ferreiroa,21,€ 25.500,€ 1.300,2021-06-30,Jagiellonia Białys..,Spain,48,53

@@ -9,10 +9,6 @@ import sqlite3
 import config
 
 
-DATABASE_LOCATION = "sqlite:///my_played_tracks.sqlite"
-USER_ID = config.user_id 
-TOKEN = config.api_key
-
 def check_if_valid_data(df: pd.DataFrame) -> bool:
     # Check if dataframe is empty
     if df.empty:
@@ -40,9 +36,13 @@ def check_if_valid_data(df: pd.DataFrame) -> bool:
 
     return True
 
-if __name__ == "__main__":
 
-    # Extract part of the ETL process
+def run_spotify_etl():
+    DATABASE_LOCATION = "sqlite:///my_played_tracks.sqlite"
+    USER_ID = config.user_id 
+    TOKEN = config.api_key
+
+      # Extract part of the ETL process
  
     headers = {
         "Accept" : "application/json",
@@ -59,15 +59,14 @@ if __name__ == "__main__":
     r = requests.get("https://api.spotify.com/v1/me/player/recently-played?after={time}".format(time=yesterday_unix_timestamp), headers = headers)
 
     data = r.json()
+
     song_names = []
     artist_names = []
     played_at_list = []
     timestamps = []
-    str_today=str(today.date())
 
     # Extracting only the relevant bits of data from the json object      
     for song in data["items"]:
-       if song["played_at"][0:10]!=str_today:
         song_names.append(song["track"]["name"])
         artist_names.append(song["track"]["album"]["artists"][0]["name"])
         played_at_list.append(song["played_at"])
@@ -82,8 +81,8 @@ if __name__ == "__main__":
     }
 
     song_df = pd.DataFrame(song_dict, columns = ["song_name", "artist_name", "played_at", "timestamp"])
-    print(song_df)
-    #Validate
+    
+    # Validate
     if check_if_valid_data(song_df):
         print("Data valid, proceed to Load stage")
 
